@@ -21,12 +21,12 @@ In Playform:
 9. Click **Generate Image**
 10. _Wait a bit_
 11. Hover the generated image and click **Download**
-12. Name the file **PROFILE_XX** (XX = your initials)
-13. [Upload here](https://bit.ly/3foQRin)
+12. Name the file **XX.png** (XX = your initials)
+13. [Upload here](shorturl.at/dgFGZ)
 
 Now we're ready!
 
-## Visual
+## Visuals
 
 Divide into four groups with a theme (this will be done during the workshop):
 
@@ -35,7 +35,7 @@ Divide into four groups with a theme (this will be done during the workshop):
 3. Leg
 4. Feet
 
-_Feel free to interpret the theme creatively_
+_Feel free to interpret your theme creatively. The best output is often created when combining tradition with imagination. Be curious._
 
 ### Gather images and create a collection
 
@@ -49,7 +49,7 @@ In Playform:
 4. Give your collection a title
 5. Make it **Public**
 6. Choose a category (not important)
-7. Add the tag "lola", "basement9"
+7. Add the tag "tomato"
 8. **Save changes**
 
 ### Create a project and start training
@@ -83,10 +83,10 @@ _If you need more training time, you must either purchase more credits, or have 
 10. Click **Generate Clip**
 11. Wait for it to render the clip…
 12. Download the clip
-13. Name the clip **VISUAL_THEME_XX_01.mp4** eg. **VISUAL_HEAD_JJ_01.mp4**. If you make several, increment the suffix.
-14. [Upload here](https://bit.ly/3foQRin)
+13. Name the clip **Theme-XX-01.mp4** eg. **Head-JJ-01.mp4**. If you make several, increment the suffix.
+14. [Upload here](shorturl.at/dgFGZ) in the **Visuals** folder.
 
-## Vocal
+## Voice
 
 Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub-scripts) and receives a script to read from the [Main Script](https://coda.io/@overdub/overdub-scripts/main-script-61):
 
@@ -97,10 +97,10 @@ Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub
 Then:
 
 1. Record yourself speaking the script.
-2. Name the recording **VOCAL_YY** (MP3/M4A/WAV) eg. **VOCAL_JJ**.
-3. [Upload here](https://bit.ly/3foQRin)
+2. Name the recording **Voice-YY** (MP3/M4A/WAV) eg. **Voice-JJ**.
+3. [Upload here](shorturl.at/dgFGZ) in the **Voice** folder.
 
-## Text
+## Words
 
 Each participant explores [Open AI](https://openai.com/) and researches a manifest or poem of meaning. Must be in English.
 
@@ -113,8 +113,8 @@ Then:
 5. Click **More** to continue, or **Generate another** to start over
 6. Create a text file
 7. Add 1-5 paragraphs and save
-8. Name the file **TEXT_XX.txt** eg. **TEXT_JJ.txt** (.rtf is also fine)
-9. [Upload here](https://bit.ly/3foQRin)
+8. Name the file **Words-XX.txt** eg. **Words-JJ.txt** (.rtf is also fine)
+9. [Upload here](shorturl.at/dgFGZ) in the **Words** folder.
 
 Read the [Technical Notes](https://bellard.org/textsynth/tech.html) to learn about the parameters.
 
