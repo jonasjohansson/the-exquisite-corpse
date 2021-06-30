@@ -22,7 +22,7 @@ In Playform:
 10. _Wait a bit_
 11. Hover the generated image and click **Download**
 12. Name the file **XX.png** (XX = your initials)
-13. [Upload here](shorturl.at/yVZ14)
+13. [Upload here](https://shorturl.at/yVZ14)
 
 Now we're ready!
 
@@ -84,7 +84,7 @@ _If you need more training time, you must either purchase more credits, or have 
 11. Wait for it to render the clip…
 12. Download the clip
 13. Name the clip **Theme-XX-01.mp4** eg. **Head-JJ-01.mp4**. If you make several, increment the suffix.
-14. [Upload here](shorturl.at/yVZ14) in the **Visuals** folder.
+14. [Upload here](https://shorturl.at/yVZ14) in the **Visuals** folder.
 
 ## Voice
 
@@ -103,7 +103,7 @@ Then:
 
 1. Record yourself speaking the script.
 2. Name the recording **Voice-YY** (MP3/M4A/WAV) eg. **Voice-JJ**.
-3. [Upload here](shorturl.at/yVZ14) in the **Voice** folder.
+3. [Upload here](https://shorturl.at/yVZ14) in the **Voice** folder.
 
 ## Words
 
@@ -119,7 +119,7 @@ Then:
 6. Create a text file
 7. Add 1-5 paragraphs and save
 8. Name the file **Words-XX.txt** eg. **Words-JJ.txt** (.rtf is also fine)
-9. [Upload here](shorturl.at/yVZ14) in the **Words** folder.
+9. [Upload here](https://shorturl.at/yVZ14) in the **Words** folder.
 
 Read the [Technical Notes](https://bellard.org/textsynth/tech.html) to learn about the parameters.
 
