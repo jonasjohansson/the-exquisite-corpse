@@ -90,6 +90,8 @@ _If you need more training time, you must either purchase more credits, or have 
 
 Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub-scripts) and receives a script to read from the [Main Script](https://coda.io/@overdub/overdub-scripts/main-script-61):
 
+Below are segments from a 30 minute script, assigned to each participant.
+
 1. MG: [0-5 min](script-1-0-5.md)
 2. EF: [5-10 min](script-2-5-10.md)
 3. JR: [10-15 min](script-3-10-15.md)
