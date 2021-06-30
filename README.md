@@ -97,7 +97,7 @@ Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub
 ??: [20-25 min](script-1-20-25.md)
 ??: [25-30 min](script-1-25-30.md)
 
-If there are more than 6 participants, please use [Supplement #1](https://coda.io/@overdub/overdub-scripts/supplement-1-62) and [Supplement #2](https://coda.io/@overdub/overdub-scripts/supplement-2-63)
+If there are more than 6 participants, please use [Supplement #1](https://coda.io/@overdub/overdub-scripts/supplement-1-62) and [Supplement #2](https://coda.io/@overdub/overdub-scripts/supplement-2-63).
 
 Then:
 
