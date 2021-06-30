@@ -90,12 +90,12 @@ _If you need more training time, you must either purchase more credits, or have 
 
 Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub-scripts) and receives a script to read from the [Main Script](https://coda.io/@overdub/overdub-scripts/main-script-61):
 
-??: [0-5 min](script-1-0-5.md)
-??: [5-10 min](script-1-5-10.md)
-??: [10-15 min](script-1-10-15.md)
-??: [15-20 min](script-1-15-20.md)
-??: [20-25 min](script-1-20-25.md)
-??: [25-30 min](script-1-25-30.md)
+1. ??: [0-5 min](script-1-0-5.md)
+2. ??: [5-10 min](script-1-5-10.md)
+3. ??: [10-15 min](script-1-10-15.md)
+4. ??: [15-20 min](script-1-15-20.md)
+5. ??: [20-25 min](script-1-20-25.md)
+6. ??: [25-30 min](script-1-25-30.md)
 
 If there are more than 6 participants, please use [Supplement #1](https://coda.io/@overdub/overdub-scripts/supplement-1-62) and [Supplement #2](https://coda.io/@overdub/overdub-scripts/supplement-2-63).
 
