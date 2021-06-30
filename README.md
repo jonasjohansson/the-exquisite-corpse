@@ -90,9 +90,12 @@ _If you need more training time, you must either purchase more credits, or have 
 
 Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub-scripts) and receives a script to read from the [Main Script](https://coda.io/@overdub/overdub-scripts/main-script-61):
 
-??: 0-10 minutes (start from "A hundred years ago…")  
-??: 10-20 minutes (start from "Its mother does everything…")  
-??: 20-30 minutes (start from "The water here is…")
+??: [0-5 min](script-1-0-5.md)
+??: [5-10 min](script-1-5-10.md)
+??: [10-15 min](script-1-10-15.md)
+??: [15-20 min](script-1-15-20.md)
+??: [20-25 min](script-1-20-25.md)
+??: [25-30 min](script-1-25-30.md)
 
 Then:
 
