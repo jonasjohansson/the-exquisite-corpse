@@ -30,7 +30,7 @@ Now we're ready!
 
 Divide into four groups with a theme (this will be done during the workshop):
 
-1. Head (MG)
+1. Head (MJ)
 2. Torso (ESC, EF)
 3. Leg (AM, RG)
 4. Feet (JR)
@@ -92,7 +92,7 @@ Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub
 
 Below are segments from a 30 minute script, assigned to each participant.
 
-1. MG: [0-5 min](script-1-0-5.md)
+1. MJ: [0-5 min](script-1-0-5.md)
 2. EF: [5-10 min](script-2-5-10.md)
 3. JR: [10-15 min](script-3-10-15.md)
 4. ESC: [15-20 min](script-4-15-20.md)
